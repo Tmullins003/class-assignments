@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\timmy\desktop\codesss\projects oop\lets try this for the one time\main.cpp
+	<iostream>
+
+1506731270 source:c:\users\timmy\desktop\codesss\projects oop\lets try this for the one time\src\accounttest.cpp
+	"account.h"
+	<iostream>
+
+1506728819 c:\users\timmy\desktop\codesss\projects oop\lets try this for the one time\include\account.h
+	<string>
+
