@@ -1,5 +1,8 @@
+// timothy mullins
+//code will allow user to input neg or pos numbers until a zero is entered
+//once 0 is entered it will summ the neg and pos numbers seperately
+// then itll find the avg of neg numbers and the avg of pos numbers
 #include <iostream>
-
 using namespace std;
 
 int main()
