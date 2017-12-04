@@ -1,0 +1,43 @@
+
+
+main {
+int a,b,c
+	a = 10; b = 20, c =5
+orderbypointer (&a,&b,&c)
+	a <--5,b<--10,c<--5
+}
+int x = 12
+int *yptr = &x;
+
+
+
+
+void order by pointer ( int *x int *y int*z
+{
+int smallest = *x
+int middle = *y
+int large = *z
+
+sorting a1
+
+int *x = small
+int *y = middle
+int *z = large
+
+}
+
+void order by array ( int x,y,z int a [3)
+{
+small = x
+middle = y
+large = z
+
+sorting a1
+
+a[0] = small
+a[1] = middle
+a[2] = large
+}
+
+
+
